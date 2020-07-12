@@ -10,4 +10,5 @@
 - 🌱 I’m currently learning Web Development
 - 🤔 I’m looking for a job
 - 📫 How to reach me: [E-mail](mailto:lucas.campanelli@outlook.com)
+- 💻 I'm a PHP programmer
 - ⚡ Passionate about web development
