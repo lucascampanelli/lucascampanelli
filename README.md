@@ -7,7 +7,7 @@
 </div>
 
 <div align="center" style="margin-bottom: 22px">
-    <img src="https://raw.githubusercontent.com/lucascampanelli/lucascampanelli/master/svgs/undraw_coding.svg" width=300>
+    <img src="https://raw.githubusercontent.com/lucascampanelli/lucascampanelli/master/svgs/undraw_coding.svg" width=300 style="margin-bottom: 22px">
 </div>
 
 <div>
