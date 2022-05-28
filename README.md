@@ -16,5 +16,7 @@
 </div>
 
 <div align="center">
-    <img href="https://www.linkedin.com/in/lucascampanelli/" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <a href="https://www.linkedin.com/in/lucascampanelli/" >
+        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
 </div>
