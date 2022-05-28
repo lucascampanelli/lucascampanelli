@@ -11,7 +11,7 @@
 </div>
 
 <div>
-    <p align="center" style="margin-bottom: 22px; margin-top: 22px">Enjoy and take a look at my repositories.</p>
+    <p align="center" style="margin-bottom: 22px; margin-top: 53px">Enjoy and take a look at my repositories.</p>
     <p align="center">I'm also on LinkedIn.</p>
 </div>
 
