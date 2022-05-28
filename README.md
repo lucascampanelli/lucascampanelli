@@ -6,6 +6,10 @@
     <h2>Welcome to my GitHub profile. :man_technologist:<h2>
 </div>
 
+<div style="display: flex; justify-content: center; margin-bottom: 22px">
+    <img src="https://raw.githubusercontent.com/lucascampanelli/lucascampanelli/master/svgs/undraw_coding.svg" width=300>
+</div>
+
 <div>
     <p align="center"style="margin-bottom: 22px">Enjoy and take a look at my repositories.</p>
     <p align="center">I'm also on LinkedIn.</p>
