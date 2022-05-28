@@ -1,14 +1,16 @@
-# **Lucas Campanelli** :man_technologist:
+<div style="margin-bottom: 22px; text-align: center">
+    <h1>Hi there! <img style="margin: 0 auto" src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" height="35"></h1>
+</div>
 
-## Hi there! <img style="margin: 0 auto" src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" height="35">
+<div style="margin-bottom: 22px; text-align: center">
+    <h2>Welcome to my GitHub profile. :man_technologist:<h2>
+</div>
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/lucascampanelli)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucascampanelli/)
+<div>
+    <p align="center"style="margin-bottom: 22px">Enjoy and take a look at my repositories.</p>
+    <p align="center">I'm also on LinkedIn.</p>
+</div>
 
-✨ Welcome to my profile! Some infos about me: ✨
-
-- 🌱 I’m currently learning Web Development
-- 🤔 I’m looking for a job
-- 📫 How to reach me: [E-mail](mailto:lucas.campanelli@outlook.com)
-- 💻 I'm a full stack developer
-- ⚡ Passionate about web development
+<div align="center">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+</div>
